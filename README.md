@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrisGabiec
+- 👋 Eu sou a Cristiane
 - 👀 I'm interested in learning programming
 - 🌱 I'm currently learning to program
 - 💞️ I try to collaborate with my colleagues
