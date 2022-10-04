@@ -1,8 +1,8 @@
 - 👋 Eu sou a Cristiane
-- 👀 I'm interested in learning programming
-- 🌱 I'm currently learning to program
-- 💞️ I try to collaborate with my colleagues
-- 📫 How to reach me, being yourself
+- 👀 Professora de Química e Educação Infantil
+- 🌱 Amo ensinar
+- 💞️ Quero muito aprender sobre programação para entender o que meu marido fala... kkkk
+- 📫 Sou uma leonina muito ativa
 
 <!---
 CrisGabiec/CrisGabiec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
